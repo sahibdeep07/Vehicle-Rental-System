@@ -21,9 +21,7 @@ import javax.swing.table.DefaultTableModel;
  */
 public class Listcustomer extends javax.swing.JInternalFrame {
 
-    /**
-     * Creates new form Listemployee
-     */
+    
     public Listcustomer() {
         initComponents();
     }
